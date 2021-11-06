@@ -34,8 +34,7 @@ function SampleTitle() {
 function InsertTable() {
   return(
     <div>
-      <label for="text-form">Insert copied data from SPIRE </label>
-      <input type="text" id = "text=form" size="30" height="50"/>
+      <label for="text-form">Insert copied data from SPIRE</label>
     </div>
   );
 }
