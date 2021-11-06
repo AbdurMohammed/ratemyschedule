@@ -1,0 +1,5 @@
+{
+    "tableName": "data",
+    "partitionKeyName": "tSid",
+    "partitionKeyType": "N"
+}
