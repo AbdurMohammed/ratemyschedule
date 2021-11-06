@@ -18,6 +18,24 @@ function App() {
           Learn React
         </a>
       </header>
+      <SampleTitle/>
+      <InsertTable/>
+    </div>
+  );
+}
+function SampleTitle() {
+  return(
+    <div>
+      <h1>RateMySchedule</h1>
+      <p>Subtitle</p> 
+    </div>
+  );
+}
+function InsertTable() {
+  return(
+    <div>
+      <label for="text-form">Insert copied data from SPIRE </label>
+      <input type="text" id = "text=form"/>
     </div>
   );
 }
