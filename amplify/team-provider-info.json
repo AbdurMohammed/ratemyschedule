@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ratemyschedule-dev-141331-authRole",
+      "UnauthRoleArn": "arn:aws:iam::662966882014:role/amplify-ratemyschedule-dev-141331-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::662966882014:role/amplify-ratemyschedule-dev-141331-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ratemyschedule-dev-141331-deployment",
+      "UnauthRoleName": "amplify-ratemyschedule-dev-141331-unauthRole",
+      "StackName": "amplify-ratemyschedule-dev-141331",
+      "StackId": "arn:aws:cloudformation:us-east-1:662966882014:stack/amplify-ratemyschedule-dev-141331/413e1a70-3f2d-11ec-aacc-0e6c55b6e46f",
+      "AmplifyAppId": "d20c6v90170bww"
+    }
+  }
+}
