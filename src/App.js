@@ -10,27 +10,10 @@ function App() {
           test button
         </Button>
       </header>
-      <SampleTitle/>
-      <InsertTable/>
     </div>
   );
 }
 
-function SampleTitle() {
-  return(
-    <div>
-      <h1>RateMySchedule</h1>
-      <p>Contribute your Rating: https://forms.gle/uJ9hcFMSwHZpbDSq7</p> 
-    </div>
-  );
-}
-function InsertTable() {
-  return(
-    <div>
-      <label for="text-form">Insert copied data from SPIRE</label>
-    </div>
-  );
-}
 
 
 export default App;
